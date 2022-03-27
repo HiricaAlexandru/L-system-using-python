@@ -1,0 +1,13 @@
+Variables:
+X
+End
+States:
+F->FF
+X->F[+X]F[-X]+X
+End
+Axiom:
+X
+End
+angle:
+20
+End
