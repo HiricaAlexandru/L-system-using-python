@@ -1,0 +1,12 @@
+Variables:
+X
+End
+States:
+F->F+F-F-F+F
+End
+Axiom:
+FF+FF+FF+FF
+End
+angle:
+90
+End
